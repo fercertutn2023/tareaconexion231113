@@ -1,0 +1,49 @@
+
+.row {
+    padding: 10px;
+  }
+  
+  .col {
+    margin-right: auto;
+    margin-left: auto;
+    font-style: italic;
+    text-align: left;
+    background: #a6b1f1;
+    padding: 5px;
+  }
+  
+  .card-body h5 {
+    color: rgb(37, 3, 3);
+    font-size: medium;
+    text-shadow: 0px 4px 2px rgb(112, 8, 8);
+    text-align: left;
+  }
+  
+  .card-body p {
+    font-weight: normal;
+    font-style: italic;
+    text-align: left;
+    font-size: medium;
+  }
+  
+  .col li{
+    font-style: italic;
+    text-align: left;
+    background: #a6b1f1;
+    padding: 5px;
+    margin-left: 5px;
+  }
+  
+  .row h2{
+    color: rgb(1, 1, 37);
+    font-weight: 60;
+    font-size: 18px;   
+    text-align: center;
+  }
+  
+  .col-6{
+  padding: 5px;
+  background-color: white;
+  }
+  
+

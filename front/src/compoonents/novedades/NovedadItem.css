@@ -1,0 +1,46 @@
+.novedades {
+    margin-bottom: 20px;
+}
+
+.novedades h2 {
+    color: rgb(5, 5, 82);
+    font-size: 20px;
+    font-style: italic;
+    text-align: left;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+.novedades h3 {
+    color: rgb(18, 18, 201);
+    font-size: 16px;
+    font-style: italic;
+    text-align: left;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+.novedades h4 {
+    color: rgb(27, 27, 236);
+    font-size: 12px;
+    font-style: italic;
+    text-align: left;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+.novedades img {
+    border-radius: 10%;
+    max-width: 7%;
+    height: auto;
+    box-shadow: #03041b;
+    display: block;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+
+hr {
+    border: 1px solid #ccc;
+    margin: 20px 0;
+}
